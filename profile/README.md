@@ -1,6 +1,6 @@
 # CKEditor 5
 
-The most powerful Open Source rich text editor with a modular and modern architecture, and 200+ features.
+The most powerful Open Source rich text editor with a modular & modern architecture, and 200+ features.
 
 - [Features documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) 
 - [Online demos](https://ckeditor.com/ckeditor-5/demo/)
