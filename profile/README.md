@@ -5,7 +5,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
 - [Features documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) 
 - [Online demos](https://ckeditor.com/ckeditor-5/demo/)
 
-<img src="https://ckeditor.com/assets/images/webp/illustration/home-editor-colabo-83272446bf.webp" width="80%" style="align:center">
+<img src="https://ckeditor.com/assets/images/webp/illustration/home-editor-colabo-83272446bf.webp" style="align:center">
 
 ## What's so unique about CKEditor?
  - It's not just an editor, but also a **[Framweork](https://ckeditor.com/docs/ckeditor5/latest/framework/index.html)** with **[Powerful API](https://ckeditor.com/docs/ckeditor5/latest/api/index.html)**, tools such as **[CKEditor 5 Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/development-tools.html#ckeditor-5-inspector)** allowing you to build your **[own plugins/solutions](https://github.com/ckeditor/ckeditor5-tutorials-examples)**.
