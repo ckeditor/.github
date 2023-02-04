@@ -1,6 +1,6 @@
 # CKEditor 5
 
-The most powerful Open Source rich text editor with a modular & modern architecture, and 200+ features.
+The most powerful Open Source rich text editor with a modular & modern architecture and 200+ features.
 
 - [Features documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) 
 - [Online demos](https://ckeditor.com/ckeditor-5/demo/)
@@ -15,7 +15,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
  - Great **accessibility** support.
  - [Export to PDF/Word and Import from Word](https://ckeditor.com/export-to-pdf-word/)
  - **[High-quality collaboration features](https://ckeditor.com/collaboration/)** you will not find anywhere else: 
-   - Real-time collaborative editing
+   - Real-time collaborative editing (with ready to use backend with REST API, Webhooks and detailed logging)
    - Comments and Track changes
    - Revision History
 
