@@ -8,7 +8,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
 <img src="https://ckeditor.com/assets/images/webp/illustration/home-editor-colabo-83272446bf.webp" style="align:center">
 
 ## What's so unique about CKEditor?
- - It's not just an editor, but also a **[Framweork](https://ckeditor.com/docs/ckeditor5/latest/framework/index.html)** with **[Powerful API](https://ckeditor.com/docs/ckeditor5/latest/api/index.html)**, tools such as **[CKEditor 5 Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/development-tools.html#ckeditor-5-inspector)** allowing you to build your **[own plugins/solutions](https://github.com/ckeditor/ckeditor5-tutorials-examples)**.
+ - CKEditor 5 is not just an editor, but also a **[Framweork](https://ckeditor.com/docs/ckeditor5/latest/framework/index.html)** with **[Powerful API](https://ckeditor.com/docs/ckeditor5/latest/api/index.html)**, tools such as **[CKEditor 5 Inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/development-tools.html#ckeditor-5-inspector)** allowing you to build your **[own plugins/solutions](https://github.com/ckeditor/ckeditor5-tutorials-examples)**.
  - **Quality**. 32,000+ Tests, 100% code coverage, backed by team of 40+ developers.
  - Six different **[UI types](https://ckeditor.com/ckeditor-5/demo/editor-types/)** - fits any kind of application, e.g. Document Management System, Emails, CMS, LMS, CRM, Chat.
  - **Large set of [features](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) (~200)**, including: Paste from Office (Word, Google Docs), Markdown support, Tables support with table properties and columns resizing, Mentions, Find & replace
