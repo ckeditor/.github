@@ -5,6 +5,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
 
 - [Features documentation](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) 
 - [Online demos](https://ckeditor.com/ckeditor-5/demo/)
+- [Main repository](https://github.com/ckeditor/ckeditor5)
 
 <img src="https://ckeditor.com/assets/images/webp/illustration/home-editor-colabo-83272446bf.webp" style="align:center">
 
