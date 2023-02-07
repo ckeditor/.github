@@ -13,7 +13,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
  - CKEditor 5 is a **ready-to-use editor** but also an **[editing framework](https://ckeditor.com/docs/ckeditor5/latest/framework/index.html)** with a **[robust API](https://ckeditor.com/docs/ckeditor5/latest/api/index.html)** and tools such as **[CKEditor 5 inspector](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/development-tools.html#ckeditor-5-inspector)** or **[package generator](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/plugins/package-generator/using-package-generator.html)**. This allows you to build **[your own plugins and solutions](https://github.com/ckeditor/ckeditor5-tutorials-examples)**.
  - **Quality**. 32,000+ tests, 100% code coverage, backed by a team of 40+ developers.
  - Six different **[UI types](https://ckeditor.com/ckeditor-5/demo/editor-types/)**. It fits any kind of application, e.g. Document Management System, email platform, CMS, LMS, CRM, chat.
- - **A large set of [features](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) (~200)**, including: Paste from Office (Word, Google Docs), Markdown support, support for tables with table properties and column resizing, @mentions, find & replace, autoformatting, spell  and grammar checker.
+ - **A large set of [features](https://ckeditor.com/docs/ckeditor5/latest/features/index.html) (~200)**, including: paste from Office (Word, Google Docs), Markdown support, support for tables with table properties and column resizing, @mentions, find & replace, autoformatting, spell  and grammar checker.
  - Great **accessibility** support.
  - **[Export to PDF/Word](https://ckeditor.com/export-to-pdf-word/)** and **[import from Word](https://ckeditor.com/import-from-word/)**.
  - **[Exceptional collaboration features](https://ckeditor.com/collaboration/)** you will not find anywhere else: 
@@ -25,7 +25,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
 
 - [Quick start guide](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html) - Uses CDN
 - [Predefined builds](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/predefined-builds.html) - Uses npm, online builder, download as zip or CDN
-- [Getting Started](https://ckeditor.com/docs/ckeditor5/latest/installation/index.html) - Full introduction to CKEditor 5
+- [Getting started](https://ckeditor.com/docs/ckeditor5/latest/installation/index.html) - Full introduction to CKEditor 5
 
 ## Framework integrations 🧩
 
