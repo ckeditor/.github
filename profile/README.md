@@ -51,7 +51,7 @@ The most powerful Open Source rich text editor with a modular & modern architect
  ## Other resources 🧰
  
  - [GitHub Writer](https://github.com/ckeditor/github-writer) - Replaces the default GitHub editor with an easy-to-use WYSIWYG editor (Chrome/Firefox browser extension). No need to remember the Markdown syntax!
- - [CKBox](https://ckeditor.com/ckbox/) - Ready-to-use file manager / digital asset manager with a native plugin for CKEditor 5. Free plan available.
+ - [CKBox](https://ckeditor.com/ckbox/) - Ready-to-use file manager / digital asset manager with a native plugin for CKEditor 5.
  
  # <img src="https://user-images.githubusercontent.com/538321/217248816-e1be1e91-021f-4fce-bf1f-7d05b1946312.png" style="height:32px; vertical-align:text-bottom;"/> CKEditor 4
 
