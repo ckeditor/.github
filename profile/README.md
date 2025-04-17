@@ -23,8 +23,8 @@ The most powerful Open Source rich text editor with a modular & modern architect
 
 ## Download and install CKEditor 5 ⛏️
 
-- [Quick start guide](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html) - Uses CDN
-- [Predefined builds](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/predefined-builds.html) - Uses npm, online builder, download as zip or CDN
+- [CDN Quick start guide](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html)
+- [npm or ZIP Quick start guide](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/self-hosted/quick-start.html)
 - [Getting started](https://ckeditor.com/docs/ckeditor5/latest/installation/index.html) - Full introduction to CKEditor 5
 
 ## Framework integrations 🧩
