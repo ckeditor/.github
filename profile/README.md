@@ -49,7 +49,8 @@ The most powerful Open Source rich text editor with a modular & modern architect
  - [Using a React component in a widget](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/tutorials/using-react-in-a-widget.html)
  
  ## Other resources 🧰
- 
+
+ - [CKEditor GitHub Awesome List](https://github.com/ckeditor/awesome-ckeditor/) - A curated list of awesome projects and resources related to CKEditor 5.
  - [GitHub Writer](https://github.com/ckeditor/github-writer) - Replaces the default GitHub editor with an easy-to-use WYSIWYG editor (Chrome/Firefox browser extension). No need to remember the Markdown syntax!
  - [CKBox](https://ckeditor.com/ckbox/) - Ready-to-use file manager / digital asset manager with a native plugin for CKEditor 5.
  
